@@ -1,0 +1,21 @@
+{
+    "name": "helimrzhangs/logger",
+    "description": "small and convenient logger",
+    "type": "library",
+    "require": {
+        "easyswoole/easyswoole": ">=3.4.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "helimrzhangs",
+            "email": "shizi@rouzao.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Logger\\": "helilogger/src/"
+        }
+    }
+}
