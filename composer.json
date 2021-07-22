@@ -12,7 +12,7 @@
             "email": "shizi@rouzao.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Logger\\": "helilogger/src/"
